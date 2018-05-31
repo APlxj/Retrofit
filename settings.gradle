@@ -1,0 +1,2 @@
+include ':app', ':app', ':smaple'
+project(':smaple').projectDir = new File('text')
